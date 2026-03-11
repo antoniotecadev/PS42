@@ -1,5 +1,9 @@
 # PS42 Luanda — System Blueprint
 
+[![Live Site](https://img.shields.io/badge/Live%20Site-antoniotecadev.github.io%2FPS42-00babc?style=for-the-badge&logo=github)](https://antoniotecadev.github.io/PS42/)
+
+[![banner](banner-ps42-blueprint.png)](https://antoniotecadev.github.io/PS42/)
+
 > Documento de arquitectura completo para o sistema de gestão da PlayStation da **42 Luanda**.  
 > Define todos os módulos, entidades de dados, fluxos de utilizador e decisões técnicas.
 
